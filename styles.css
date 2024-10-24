@@ -61,7 +61,7 @@ h1 {
     margin-left: 10px; /* Adjust the spacing from the left edge */
     padding: 10px;
     background-color: #ffffff; /* Set the background color of the box */
-    border: 1px solid #6b2121; /* Optional: Add a border around the box */
+    border: 10px solid #6b2121; /* Optional: Add a border around the box */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
     max-height: 700px; /* Set a maximum height for the box */
     overflow-y: auto; /* Enable vertical scrolling if content exceeds max-height */
@@ -76,7 +76,7 @@ h1 {
     margin-left: 10px; /* Adjust the spacing from the left edge */
     padding: 10px;
     background-color: #ffffff; /* Set the background color of the box */
-    border: 1px solid #6b2121; /* Optional: Add a border around the box */
+    border: 10px solid #6b2121; /* Optional: Add a border around the box */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
     max-height: 700px; /* Set a maximum height for the box */
     overflow-y: auto; /* Enable vertical scrolling if content exceeds max-height */
